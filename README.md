@@ -6,6 +6,8 @@ Le but du projet était d'apprendre à utiliser un template fait et de le modifi
 
 Fait et fini en *+ou-6h* de temps imparti.
 
+Lien vers le repo de base pour visualiser les commits/commentaires : https://github.com/Wstephane/BeCode-Formation/tree/master/Fil-Rouge-One-Page-Association-La-Famille-Heureuse
+
 
 ## Cet excercie m'a appris à :
 
