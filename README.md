@@ -2,7 +2,9 @@
 
 Fait le *31/05/2018* par Stéphane Wyns dans le cadre de la formation *BeCode* au début de formation.
 
-Le but du projet était d'apprendre à utiliser un template fait et de le modifier selon nos besoins.
+Le but du projet était d'apprendre à utiliser un [template](https://html5up.net/hyperspace) et de le modifier selon nos besoins.
+
+Notre sujet pour faire le projet est l'association La Famille Heureuse. Donc voici [leur site](https://www.guidesocial.be/familleheureusestjos/?page=1) d'où nous prenions les informations pour en faire une nouvelle version avec le template choisi.
 
 Fait et fini en *+ou-6h* de temps imparti.
 
